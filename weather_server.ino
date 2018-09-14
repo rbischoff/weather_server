@@ -1,4 +1,8 @@
-
+//*** Attribution ***//
+// https://github.com/sparkfun/Wimp_Weather_Station/blob/master/Wimp_Weather_Station.ino //
+// Sparkfun Wimp Weather station was main starting point for this project.
+// I modified to meet the needs and conditions of my setup.
+// This code extends the Beerware license of the original source
 
 #include <WiFi101.h>
 #include <WiFiUdp.h>
